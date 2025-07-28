@@ -34,3 +34,6 @@ out/
 # Temporary files
 *.tmp
 *.temp
+
+# Roo files
+.roo/
